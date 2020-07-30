@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/rmeli.gif)](https://github4life.herokuapp.com/ethomson)
+[![GitHub Game of Life](https://github4life.herokuapp.com/rmeli.gif)](https://github4life.herokuapp.com/rmeli)
 
 <!--
 **RMeli/RMeli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
