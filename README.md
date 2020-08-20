@@ -1,8 +1,3 @@
-
-## GitHub Stats
-
-[![RMeli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rmeli&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmeli&layout=compact&hide=jupyter%20notebook&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Contributions Game of Life
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/rmeli.gif)](https://github4life.herokuapp.com/rmeli)
