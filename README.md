@@ -1,6 +1,5 @@
-## Contributions Game of Life
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/rmeli.gif)](https://github4life.herokuapp.com/rmeli)
+- 📐 [spyrmsd](https://github.com/RMeli/spyrmsd)
 
 <!--
 
