@@ -4,6 +4,12 @@ Projects:
 - 🧮 [IRC](https://github.com/RMeli/irc): transfrormations between Cartesian coordinates and redundant internal coordinates
 - ☀️ [GSoC 2019](https://github.com/RMeli/gsoc19): Google Summer of Code 2019
 
+Contributions:
+
+- 🤖 [GNINA](https://github.com/gnina/gnina/pulls?q=is%3Apr+author%3ARMeli+is%3Aclosed): deep learning framework for molecular docking
+- 🖲️ [MDAnalysis](https://github.com/MDAnalysis/mdanalysis/pulls?q=is%3Apr+is%3Aclosed+author%3ARMeli): library to analyze molecular dynamics trajectories
+- ⚗️ [OpenBabel](https://github.com/openbabel/openbabel/pulls?q=is%3Apr+author%3ARMeli+is%3Aclosed): chemical toolbox designed to speak the many languages of chemical data
+
 <!--
 
 Here are some ideas to get you started:
