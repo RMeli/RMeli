@@ -5,6 +5,7 @@ Projects:
 - 📐 [spyrmsd](https://github.com/RMeli/spyrmsd): symmetry-corrected RMSD calculations in Python
 - 🧮 [IRC](https://github.com/RMeli/irc): transfrormations between Cartesian coordinates and redundant internal coordinates
 - ☀️ [GSoC 2019](https://github.com/RMeli/gsoc19): Google Summer of Code 2019
+- 🔥 [gnina-torch](https://github.com/RMeli/gnina-torch): PyTorch implementation of GNINA scoring function for molecular docking
 
 Contributions:
 
